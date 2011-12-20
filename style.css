@@ -1,0 +1,7 @@
+
+
+.button1{width:680px;margin:200px auto;}
+.button1 a{display:block;text-align:center;line-height:50px;width:200px;height:50px;background-color:#E95C41;color:white;text-decoration:none;font-weight:bold;
+border-radius:4px;box-shadow:1px 2px 1px #ccc;border-bottom:1px solid #b54934;border-top:1px solid #cf3f24;font-size:26px;text-shadow:0px -1px 1px rgba(0,0,0,0.8);}
+
+.button1 a:hover{background-color:#f95f41;}
